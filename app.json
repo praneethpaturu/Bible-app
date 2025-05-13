@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "24708ae9-ceb2-4cda-a225-fde752676f87"
+      }
+    },
+    "android": {
+      "package": "com.praneethpaturu1988.bibleapp"
+    }
+  }
+}
